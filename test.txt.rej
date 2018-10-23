@@ -1,0 +1,12 @@
+diff a/test.txt b/test.txt	(rejected hunks)
+@@ -2,4 +2,7 @@
+ 
+ #git 테스트 입니다.
+ 
+-#git 테스트 입니다. 2
+\ No newline at end of file
++#git 테스트 입니다. 2
++
++
++#git 테스트 입니다. 343434343
+\ No newline at end of file
